@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "age": 20,
+    "gender": "Male",
+    "branch": "CSE",
+    "year": 2,
+    "cgpa": 8.7,
+    "email": "aarav.sharma@example.com",
+    "phone": "9876543210",
+    "city": "Delhi"
+  },
+  {
+    "id": 2,
+    "name": "Priya Singh",
+    "age": 19,
+    "gender": "Female",
+    "branch": "CSE",
+    "year": 2,
+    "cgpa": 9.2,
+    "email": "priya.singh@example.com",
+    "phone": "9876543211",
+    "city": "Lucknow"
+  },
+  {
+    "id": 3,
+    "name": "Rohan Verma",
+    "age": 21,
+    "gender": "Male",
+    "branch": "IT",
+    "year": 3,
+    "cgpa": 8.1,
+    "email": "rohan.verma@example.com",
+    "phone": "9876543212",
+    "city": "Kanpur"
+  },
+  {
+    "id": 4,
+    "name": "Sneha Gupta",
+    "age": 20,
+    "gender": "Female",
+    "branch": "ECE",
+    "year": 2,
+    "cgpa": 8.9,
+    "email": "sneha.gupta@example.com",
+    "phone": "9876543213",
+    "city": "Ghaziabad"
+  },
+  {
+    "id": 5,
+    "name": "Aditya Mishra",
+    "age": 22,
+    "gender": "Male",
+    "branch": "ME",
+    "year": 4,
+    "cgpa": 7.8,
+    "email": "aditya.mishra@example.com",
+    "phone": "9876543214",
+    "city": "Noida"
+  },
+  {
+    "id": 6,
+    "name": "Ananya Patel",
+    "age": 19,
+    "gender": "Female",
+    "branch": "CSE",
+    "year": 1,
+    "cgpa": 9.5,
+    "email": "ananya.patel@example.com",
+    "phone": "9876543215",
+    "city": "Pune"
+  },
+  {
+    "id": 7,
+    "name": "Karan Yadav",
+    "age": 21,
+    "gender": "Male",
+    "branch": "Civil",
+    "year": 3,
+    "cgpa": 7.9,
+    "email": "karan.yadav@example.com",
+    "phone": "9876543216",
+    "city": "Agra"
+  },
+  {
+    "id": 8,
+    "name": "Meera Joshi",
+    "age": 20,
+    "gender": "Female",
+    "branch": "IT",
+    "year": 2,
+    "cgpa": 8.6,
+    "email": "meera.joshi@example.com",
+    "phone": "9876543217",
+    "city": "Jaipur"
+  },
+  {
+    "id": 9,
+    "name": "Rahul Kumar",
+    "age": 22,
+    "gender": "Male",
+    "branch": "EEE",
+    "year": 4,
+    "cgpa": 8.3,
+    "email": "rahul.kumar@example.com",
+    "phone": "9876543218",
+    "city": "Patna"
+  },
+  {
+    "id": 10,
+    "name": "Ishita Roy",
+    "age": 21,
+    "gender": "Female",
+    "branch": "CSE",
+    "year": 3,
+    "cgpa": 9.1,
+    "email": "ishita.roy@example.com",
+    "phone": "9876543219",
+    "city": "Kolkata"
+  }
+]

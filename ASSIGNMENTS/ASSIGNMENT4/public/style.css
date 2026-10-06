@@ -1,0 +1,156 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 40px 20px;
+    font-family: Arial, sans-serif;
+    background: #0F172A;
+    color: #CBD5E1;
+}
+
+.container {
+    width: 760px;
+    max-width: 95%;
+    margin: auto;
+    padding: 35px;
+    background: #1E293B;
+    border-radius: 16px;
+    border: 1px solid #334155;
+    box-shadow: 0 18px 45px rgba(0, 0, 0, 0.35);
+}
+
+h1 {
+    text-align: center;
+    margin: 5px 0 35px;
+    color: #F8FAFC;
+    font-size: 37px;
+}
+
+h2 {
+    margin-top: 38px;
+    padding-bottom: 12px;
+    color: #2DD4BF;
+    border-bottom: 1px solid #334155;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+
+input,
+select,
+textarea {
+    width: 100%;
+    padding: 14px 15px;
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+
+    background: #263449;
+    color: #F8FAFC;
+
+    border: 1px solid #475569;
+    border-radius: 8px;
+    outline: none;
+}
+
+input::placeholder,
+textarea::placeholder {
+    color: #94A3B8;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+    border-color: #2DD4BF;
+    box-shadow: 0 0 0 3px rgba(45, 212, 191, 0.12);
+}
+
+textarea {
+    height: 115px;
+    resize: vertical;
+}
+
+form button {
+    padding: 13px;
+
+    background: #2DD4BF;
+    color: #0F172A;
+
+    border: none;
+    border-radius: 8px;
+
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+form button:hover {
+    background: #5EEAD4;
+}
+
+/* Request Card */
+
+.request {
+    margin-top: 16px;
+    padding: 20px;
+
+    background: #263449;
+
+    border: 1px solid #334155;
+    border-left: 4px solid #2DD4BF;
+
+    border-radius: 10px;
+}
+
+.request h3 {
+    margin-top: 0;
+    color: #5EEAD4;
+    font-size: 21px;
+}
+
+.request p {
+    color: #CBD5E1;
+    margin: 9px 0;
+}
+
+.request p b {
+    color: #F8FAFC;
+}
+
+.request button {
+    margin-top: 10px;
+    margin-right: 6px;
+    padding: 8px 17px;
+
+    border: none;
+    border-radius: 7px;
+
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/* Edit */
+
+.request button:first-of-type {
+    background: #2DD4BF;
+    color: #0F172A;
+}
+
+.request button:first-of-type:hover {
+    background: #5EEAD4;
+}
+
+/* Delete */
+
+.request button:last-of-type {
+    background: #F87171;
+    color: white;
+}
+
+.request button:last-of-type:hover {
+    background: #EF4444;
+}
